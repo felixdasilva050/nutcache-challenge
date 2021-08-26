@@ -1,5 +1,3 @@
-# nutcache-challenge
-
 # challenge-nutcache
 nutcache challenge
 
