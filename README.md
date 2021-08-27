@@ -17,6 +17,8 @@ how to run?
 
 6º project is running.
 
+7º to stop execution, press ctrl+c
+
 Considerations:
 this was my first CRUD in C# with just two days of study. I have never had experience with this programming language before. I have more experience in Java projects.
 
